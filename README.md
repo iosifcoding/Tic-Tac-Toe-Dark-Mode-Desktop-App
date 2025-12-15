@@ -1,4 +1,4 @@
-# Tic Tac Toe – Dark Mode Edition 🎮  
+# Tic Tac Toe – Dark Mode Edition  
 A clean, minimal, and modern implementation of Tic-Tac-Toe built with Python and Tkinter.  
 This version features a **fully custom dark UI**, **Player vs Player gameplay**, **clear and bold X/O symbols**, and a **macOS-safe Reset control**.
 
