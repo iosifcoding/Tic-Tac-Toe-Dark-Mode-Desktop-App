@@ -6,6 +6,7 @@ This version features a **fully custom dark UI**, **Player vs Player gameplay**,
 
 ## 📸 Screenshot  
 ![03073BB0-C9A5-4F09-A860-230341ECDC38_1_201_a](https://github.com/user-attachments/assets/21bdadbb-277f-45bd-af1d-1a2e42580467)
+![79D42BEB-E192-43B2-ADB5-0FC4743F5C4B_1_201_a](https://github.com/user-attachments/assets/31d3d9f8-b19b-4358-a4a4-b4b688c9de44)
 
 
 ---
